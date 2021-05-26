@@ -6,7 +6,7 @@
    
 Passionate about games and 3D designer.   
 
-[<img src="./img/linkedin.png" width="32" height="32" />](www.linkedin.com/in/gabriel-eduardo-ruffo)   [<img src="./img/instagram.png" width="32" height="32" />](https://www.instagram.com/gabriel.eduardo.ruffo/)    [<img src="./img/facebook.png" width="32" height="32" />](https://www.facebook.com/gabriel.ruffo.14/)
+[<img src="./img/linkedin.png" width="32" height="32" />](https://www.linkedin.com/in/gabriel-eduardo-ruffo)   [<img src="./img/instagram.png" width="32" height="32" />](https://www.instagram.com/gabriel.eduardo.ruffo/)    [<img src="./img/facebook.png" width="32" height="32" />](https://www.facebook.com/gabriel.ruffo.14/)
 
 <table>
 <tr>
