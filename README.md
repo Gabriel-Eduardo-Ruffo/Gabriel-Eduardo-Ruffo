@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Gabriel-Eduardo-Ruffo/Gabriel-Eduardo-Ruffo/main/img/img_cv_circle.png" width="100" height="100" border="10"/>   
+<img src="./img/img_cv_circle.png" width="100" height="100" border="10"/>   
 
 <h1> Hi, I'm Gabriel Ruffo👋</h1>   
 
