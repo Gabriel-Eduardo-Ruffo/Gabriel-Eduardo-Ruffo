@@ -1,4 +1,4 @@
-<img src="./img/onepiece.gif" width="100" height="100" border="10"/>   
+<img src="./img/onepiece.gif" width="200" height="100" border="10"/>   
 
 <h1> Hi, I'm Gabriel Ruffo👋</h1>   
 
